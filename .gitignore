@@ -1,0 +1,5 @@
+makePDF.sh
+*.pdf
+*.out
+*.aux
+*.log
